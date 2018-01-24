@@ -23,7 +23,9 @@ However, let's try to keep things clean and orderly. To make sure everyone is fo
   
 ## Default Branch
 
-The default branch for this project is set to **_develop_**. This means that all branches for new features will be created from and merged into this branch, **not the _master_ branch**. The **_master_** branch is reserved for the working, production-level source (once it exists).
+~~The default branch for this project is set to **_develop_**. This means that all branches for new features will be created from and merged into this branch, **not the _master_ branch**. The **_master_** branch is reserved for the working, production-level source (once it exists).~~
+
+Default branch is master.
 
 ## Why are we doing this?
 
