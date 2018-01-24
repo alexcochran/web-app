@@ -1,5 +1,7 @@
 # Contributing
 
+## Git Flow
+
 If you're contributing to this project, there's a 100% chance you're one of just a few people, all of whom know each other.
 
 However, let's try to keep things clean and orderly. To make sure everyone is following the same rules, all contributions/etc. should follow the [GitHub Flow](https://guides.github.com/introduction/flow/). This means that each time noteworthy changes are made, the process should include:
@@ -22,5 +24,7 @@ However, let's try to keep things clean and orderly. To make sure everyone is fo
 ## Default Branch
 
 The default branch for this project is set to **_develop_**. This means that all branches for new features will be created from and merged into this branch, **not the _master_ branch**. The **_master_** branch is reserved for the working, production-level source (once it exists).
-  
+
+## Why are we doing this?
+
 This project is meant to be a learning experience. We're going to find some data worth analyzing, engineer a web application that can do something cool with it, and share it with the world.
