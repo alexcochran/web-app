@@ -1,10 +1,10 @@
 # Contributing
 
-## GitHub Flow
+## Project Flow
 
 If you're contributing to this project, there's a 100% chance you're one of just a few people, all of whom know each other.
 
-However, let's try to keep things clean and orderly. To make sure everyone is following the same rules, all contributions/etc. should follow the [GitHub Flow](https://guides.github.com/introduction/flow/). This means that each time noteworthy changes are made, the process should include:
+However, let's try to keep things clean and orderly. To make sure everyone is following the same rules, all contributions/etc. should follow the **[GitHub Flow](https://guides.github.com/introduction/flow/)**. This means that each time noteworthy changes are made, the process should include:
 
 * **Creating a branch**
   * Features and new ideas should be in a separate branch that others can see, but that won't have any effects on the current working version of the project.
