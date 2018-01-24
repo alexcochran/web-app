@@ -1,6 +1,6 @@
 # Contributing
 
-## Git Flow
+## GitHub Flow
 
 If you're contributing to this project, there's a 100% chance you're one of just a few people, all of whom know each other.
 
